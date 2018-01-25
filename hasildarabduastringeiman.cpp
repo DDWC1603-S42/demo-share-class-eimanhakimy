@@ -14,7 +14,7 @@ class csifirdua
 };
 void csifirdua::set_val(int a,int b)
 {
-	cout << "Sila Letakkan Nombor Yang Ingin Darab" << endl;
+	cout << "Sila Letakkan Nombor Yang Ingin Darab Dua" << endl;
 
 	x=a;
 	y=b;
